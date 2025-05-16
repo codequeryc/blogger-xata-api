@@ -1,0 +1,8 @@
+{
+  "name": "blogger-xata-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@xata.io/client": "^1.0.0"
+  }
+}
